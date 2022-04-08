@@ -5,7 +5,6 @@ import com.sz.springcloud.entity.Payment;
 import com.sz.springcloud.service.PaymentService;
 import org.apache.ibatis.annotations.Param;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.RequestBody;
 
 import javax.annotation.Resource;
 

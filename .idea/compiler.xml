@@ -8,6 +8,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cloudproviderpayment8001" />
+        <module name="cloudeurekaserver7001" />
+        <module name="cloudconsumerorder80" />
+        <module name="cloudproviderpayment8002" />
+        <module name="cloudapicommons" />
+        <module name="cloudeurekaserver7002" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
