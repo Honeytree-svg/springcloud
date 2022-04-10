@@ -16,6 +16,11 @@
         <module>cloudeurekaserver7001</module>
         <module>cloudeurekaserver7002</module>
         <module>cloudproviderpayment8002</module>
+        <module>cloudproviderpayment8004</module>
+        <module>cloudconsumerzkorder80</module>
+        <module>cloudconsumerfeignorder80</module>
+        <module>cloudproviderhystrixpayment8001</module>
+        <module>cloudconsumerfeignhystrixorder80</module>
     </modules>
 
 
