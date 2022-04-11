@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/cloudalibabaconfignacosclient3377/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudalibabaconfignacosclient3377/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudalibabaconsumerorder83/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudalibabaconsumerorder83/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudalibabaproviderpayment9001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudalibabaproviderpayment9001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudalibabaproviderpayment9002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudalibabaproviderpayment9002/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloudapicommons/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloudapicommons/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloudconsumerfeignhystrixorder80/src/main/java" charset="UTF-8" />
@@ -9,6 +17,8 @@
     <file url="file://$PROJECT_DIR$/cloudconsumerfeignhystrixorder80two/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloudconsumerfeignorder80/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloudconsumerfeignorder80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudconsumerhystrixdashboard9001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudconsumerhystrixdashboard9001/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloudconsumerorder80/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloudconsumerorder80/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloudconsumerzkorder80/src/main/java" charset="UTF-8" />
@@ -17,6 +27,8 @@
     <file url="file://$PROJECT_DIR$/cloudeurekaserver7001/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloudeurekaserver7002/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloudeurekaserver7002/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudgatewaygateway9527/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudgatewaygateway9527/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloudproviderhystrixpayment8001/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloudproviderhystrixpayment8001/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloudproviderpayment8001/src/main/java" charset="UTF-8" />
@@ -25,6 +37,12 @@
     <file url="file://$PROJECT_DIR$/cloudproviderpayment8002/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloudproviderpayment8004/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloudproviderpayment8004/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstreamrabbitmqconsumer8802/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstreamrabbitmqconsumer8802/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstreamrabbitmqconsumer8803/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstreamrabbitmqconsumer8803/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstreamrabbitmqprovider8801/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstreamrabbitmqprovider8801/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/provider/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/provider/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />

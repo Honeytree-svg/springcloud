@@ -7,17 +7,26 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="cloudconsumerzkorder80" />
+        <module name="cloudalibabaconsumerorder83" />
         <module name="cloudproviderpayment8001" />
+        <module name="cloudstreamrabbitmqprovider8801" />
         <module name="cloudproviderpayment8002" />
-        <module name="cloudconsumerfeignorder80" />
         <module name="cloudconsumerfeignhystrixorder80" />
         <module name="cloudapicommons" />
         <module name="cloudproviderpayment8004" />
         <module name="cloudproviderhystrixpayment8001" />
+        <module name="cloudgatewaygateway9527" />
+        <module name="cloudalibabaproviderpayment9002" />
         <module name="cloudeurekaserver7001" />
+        <module name="cloudalibabaproviderpayment9001" />
         <module name="cloudconsumerorder80" />
+        <module name="cloudstreamrabbitmqconsumer8802" />
+        <module name="cloudstreamrabbitmqconsumer8803" />
         <module name="cloudeurekaserver7002" />
+        <module name="cloudconsumerzkorder80" />
+        <module name="cloudconsumerfeignorder80" />
+        <module name="cloudconsumerhystrixdashboard9001" />
+        <module name="cloudalibabaconfignacosclient3377" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">

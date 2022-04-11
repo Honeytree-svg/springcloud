@@ -21,6 +21,15 @@
         <module>cloudconsumerfeignorder80</module>
         <module>cloudproviderhystrixpayment8001</module>
         <module>cloudconsumerfeignhystrixorder80</module>
+        <module>cloudconsumerhystrixdashboard9001</module>
+        <module>cloudgatewaygateway9527</module>
+        <module>cloudstreamrabbitmqprovider8801</module>
+        <module>cloudstreamrabbitmqconsumer8802</module>
+        <module>cloudstreamrabbitmqconsumer8803</module>
+        <module>cloudalibabaproviderpayment9002</module>
+        <module>cloudalibabaproviderpayment9001</module>
+        <module>cloudalibabaconsumerorder83</module>
+        <module>cloudalibabaconfignacosclient3377</module>
     </modules>
 
 
